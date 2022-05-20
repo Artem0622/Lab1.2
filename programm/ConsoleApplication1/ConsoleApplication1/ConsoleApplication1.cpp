@@ -8,6 +8,7 @@ int main()
     a = 4;
     b = 6;
     c = 8;
+    std::cout << "Summa " << a <<  "i" << b << "ravna" << a + b << "\n";
 }
 
 
