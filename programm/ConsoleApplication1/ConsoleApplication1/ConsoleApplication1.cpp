@@ -2,7 +2,10 @@
 
 int main()
 {
-    std::cout << "Hello World!\n";
+   std::cout << "Hi bro!\n";
+    int a, c;
+    int b;
+    a = 4;
 }
 
 
