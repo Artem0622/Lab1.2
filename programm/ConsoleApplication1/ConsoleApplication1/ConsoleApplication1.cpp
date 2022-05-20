@@ -6,6 +6,7 @@ int main()
     int a, c;
     int b;
     a = 4;
+    b = 6;
 }
 
 
